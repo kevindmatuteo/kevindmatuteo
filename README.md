@@ -12,7 +12,7 @@
 ### Hasta el momento no tengo ninguna experiencia laboral.
 
 # Aficiones
-### Entre mis aficiones son en deporte, mis favoritos son el fútbol⚽ y el baloncesto🏀. También me gustan los videojuegos🎮 como Pokémon, Final Fantasy o juegos relaionados con los deportes que me gustan. como FIFA o NBA 2K.
+### Entre mis aficiones son en deporte, mis favoritos son el fútbol⚽ y el baloncesto🏀. También me gustan los videojuegos🎮 como Pokémon, Final Fantasy o juegos relaionados con los deportes que me gustan, como FIFA o NBA 2K.
 
 <p align="center">
   <img src="recursos/cloug.gif" width="130px" height="100px"> <img src="recursos/nba.gif" width="170px"><img src="recursos/pokemon.gif" width="150px" height="100">
