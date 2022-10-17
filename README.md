@@ -10,9 +10,11 @@
 
 # Aficiones
 ### Entre mis aficiones son en deporte, mis favoritos son el fútbol⚽ y el baloncesto🏀. También me gustan los videojuegos🎮 como Pokémon, Final Fantasy o juegos relaionados con los deportes que me gustan. como FIFA o NBA 2K.
-<img src="recursos/cloug.gif" width="130px" height="100px">
-<img src="recursos/nba.gif" width="170px">
-<img src="recursos/pokemon.gif" width="150px" height="100">
+<center>
+  <img src="recursos/cloug.gif" width="130px" height="100px">
+  <img src="recursos/nba.gif" width="170px">
+  <img src="recursos/pokemon.gif" width="150px" height="100">
+</center>
 
 # Contacto
 [Twitter](https://twitter.com/KekiMatute)
