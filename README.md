@@ -1,5 +1,5 @@
 # Presentación
-### Hola! Soy Kevin un estudiante de 1º de DAM en el IES Luis Vives. 
+### Hola! Soy Kevin, tengo 18 años y estoy en 1º de DAM en el IES Luis Vives. 
 
 <p align="center">
   <img src="recursos/octocat-1665777722740.png" width="300px">
