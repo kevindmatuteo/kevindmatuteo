@@ -43,6 +43,6 @@
 kekimat12@gmail.com
 
 # FIN
-<center>
+<p align = center>
     <img src="recursos/ok.gif" width="300px" height="200">
-</center>
+</p>
