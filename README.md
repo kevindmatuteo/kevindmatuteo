@@ -15,7 +15,12 @@
 </p>
 
 # Enseñanzas
-### En lo relacionado a la programación, estoy aprendiendo a utilizar GitHub y otras herramientas, como Visual Studio Code o IntelliJ IDEA. Además estoy aprendiendo a manejar el lenguaje Kotlin. También tengo conocimientos básicos de GIT🙂. 
+### En lo relacionado a la programación, estoy aprendiendo a utilizar GitHub y otras herramientas, como Visual Studio Code o IntelliJ IDEA. Además estoy aprendiendo a manejar el lenguaje Kotlin. También tengo conocimientos básicos de GIT🙂.
+<img src=https://assets.stickpng.com/images/5847f981cef1014c0b5e48be.png width=30>
+<img src=https://cdn-icons-png.flaticon.com/512/25/25231.png width=30>
+<img src=https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png width=30>
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png width=30>
+<img src = https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png width=30>
 
 # Trabajo
 ### Hasta el momento no tengo ninguna experiencia laboral.
