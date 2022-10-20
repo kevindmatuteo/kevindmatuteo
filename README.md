@@ -15,7 +15,7 @@
 </p>
 
 # Enseñanzas
-### Estoy aprendiendo a utilizar GitHub y otras herramientas relacionadas con la programación, como Visual Studio Code o IntelliJ IDEA. También tengo conocimientos básicos de GIT.🙂
+### En lo relacionado a la programación, estoy aprendiendo a utilizar GitHub y otras herramientas, como Visual Studio Code o IntelliJ IDEA. También tengo conocimientos básicos de GIT🙂.
 
 # Trabajo
 ### Hasta el momento no tengo ninguna experiencia laboral.
