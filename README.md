@@ -23,6 +23,7 @@
   <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png width=30>
   <img src = https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png width=30>
 </p>
+
 # Trabajo
 ### Hasta el momento no tengo ninguna experiencia laboral.
 
