@@ -35,8 +35,6 @@
 </p>
 
 # Contacto
-[Twitter](https://twitter.com/KekiMatute)
-
 [LinkedIn](https://www.linkedin.com/in/kevin-david-matute-obando-2230a3252/)
 
 ### Correo electrónico
