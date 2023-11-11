@@ -33,7 +33,7 @@
 ### Entre mis aficiones son en deporte, mis favoritos son el fútbol⚽ y el baloncesto🏀. También me gustan los videojuegos🎮 pero no suelo jugar mucho, prinicpalmente me gustan juagos como NBA2K, FIFA o Pokémon. Tambíen me gusta bastante el anime 👺 y el manga 📕. Por otro lado también me gusta la música, los géneros que más escucho son rap, trap y reggaeton. 
 
 <p align="center">
-  <img src="recursos/dunk.gif" width="110px" heght="130px"> <img src="recursos/pokemon.gif" width="150px" height="100"> <img src="recursos/pluto.gif" width="180px"> <img src="recursos/mori.png" width="150px">
+  <img src="recursos/dunk.gif" width="130px" heght="130px"> <img src="recursos/pokemon.gif" width="170px" height="100"> <img src="recursos/pluto.gif" width="190px"> <img src="recursos/mori.png" width="150px">
 </p>
 
 # Contacto
