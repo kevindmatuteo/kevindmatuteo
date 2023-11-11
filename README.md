@@ -18,8 +18,8 @@
 ### En lo relacionado a la programación, estoy utilizando Java, Kotlin y .NET en las clases. Utilizo programas como Visual Studio Code o IntelliJ IDEA. También tengo conocimientos de GIT🙂.
 <p align="center">
   <img src=https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png width=30>
-  <img src=https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png width=30>
-  <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png width=20>
+  <img src=https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png width=35>
+  <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png width=30>
   <img src=https://cdn-icons-png.flaticon.com/512/25/25231.png width=30>
   <img src=https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png width=30>
   <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png width=30>
