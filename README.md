@@ -8,7 +8,7 @@
   - [Correo Electronico](#correo-electrónico)
 - [Fin](#fin)
 # Presentación
-### Hola! Soy Kevin, tengo 19 años y estoy en 2º de DAM en el IES Luis Vives. 
+### Hola! Soy Kevin, tengo 19 años y estoy en 2º de Desarrollo de aplicacines multiplataforma en el IES Luis Vives. 
 
 <p align="center">
   <img src="recursos/octocat-1665777722740.png" width="300px">
