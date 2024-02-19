@@ -11,7 +11,7 @@
 ### Hola! Soy Kevin, tengo 19 años y estoy en 2º de Desarrollo de aplicacines multiplataforma en el IES Luis Vives. 
 
 <p align="center">
-  <img src="recursos/octocat-1665777722740.png" width="300px">
+  <img src="recursos/octocat-1665777722740.png" width="250px">
 </p>
 
 # Enseñanzas
